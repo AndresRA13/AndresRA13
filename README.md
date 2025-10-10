@@ -82,30 +82,26 @@
 
 <p align="left">
   <!-- Gmail -->
-  <a href="mailto:tu-correo@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Gmail" title="Email" style="margin-right:10px;"/>
+  <a href="mailto:arktech365@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Gmail" title="Send me an email" style="margin-right:10px;"/>
   </a>
 
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/tu-usuario-linkedin/" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn" title="LinkedIn" style="margin-right:10px;"/>
+  <a href="https://www.linkedin.com/in/andres-rojas-466440299" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn" title="LinkedIn Profile" style="margin-right:10px;"/>
   </a>
 
   <!-- GitHub -->
-  <a href="https://github.com/AndresRojas" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/github.png" alt="GitHub" title="GitHub" style="margin-right:10px;"/>
+  <a href="https://github.com/AndresRA13/AndresRA13" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/github.png" alt="GitHub" title="GitHub Profile" style="margin-right:10px;"/>
   </a>
 
-  <!-- Portfolio or Personal Website (optional) -->
-  <a href="https://your-portfolio-link.com" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/domain.png" alt="Portfolio" title="Portfolio" style="margin-right:10px;"/>
-  </a>
-
-  <!-- Instagram (optional, if you want a personal touch) -->
-  <a href="https://www.instagram.com/yourusername/" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram" title="Instagram"/>
+  <!-- Portfolio -->
+  <a href="https://ar-portafolio.netlify.app/" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/source-code.png" alt="Portfolio" title="My Portfolio Website"/>
   </a>
 </p>
+
 
 
 
