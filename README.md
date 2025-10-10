@@ -72,14 +72,43 @@
   <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
+
+
 ###
-<h3 align="left">☕ Connect with me : <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Handshake.gif" height="25px"></h3>
+<h3 align="left">
+  ☕ Connect with me 
+  <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Handshake.gif" height="25px">
+</h3>
 
-<br>
+<p align="left">
+  <!-- Gmail -->
+  <a href="mailto:tu-correo@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Gmail" title="Email" style="margin-right:10px;"/>
+  </a>
 
-[![@anushka_wije](https://img.icons8.com/fluency/48/000000/twitter-squared.png "@anushka_wije")](https://twitter.com/anushka_wije) [![@0711971313](https://img.icons8.com/fluency/48/000000/phone-disconnected.png "@0711971313")](tel:0711971313) [![@anushkaduwolka123@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@anushkaduwolka123@gmail.com")](anushkaduwolka123@gmail.com)
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/tu-usuario-linkedin/" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn" title="LinkedIn" style="margin-right:10px;"/>
+  </a>
 
-<br>
+  <!-- GitHub -->
+  <a href="https://github.com/AndresRojas" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/github.png" alt="GitHub" title="GitHub" style="margin-right:10px;"/>
+  </a>
+
+  <!-- Portfolio or Personal Website (optional) -->
+  <a href="https://your-portfolio-link.com" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/domain.png" alt="Portfolio" title="Portfolio" style="margin-right:10px;"/>
+  </a>
+
+  <!-- Instagram (optional, if you want a personal touch) -->
+  <a href="https://www.instagram.com/yourusername/" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram" title="Instagram"/>
+  </a>
+</p>
+
+
+
 
 
 <h3 align="center">🚀 "Every line of code is an opportunity to learn something new."</h3>
