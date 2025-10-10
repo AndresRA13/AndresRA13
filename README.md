@@ -9,7 +9,8 @@
 <div align="center">
 
   <!-- Avatar -->
-  <img src="https://avatars.githubusercontent.com/u/your-id?v=4" width="120" style="margin-bottom: 5px;">
+  <img src="https://readme-typing-svg.demolab.com?font=Time+New+Roman&pause=1000&color=00bcd4&center=true&vCenter=true&width=300&lines=Software+Developer" alt="Typing Software Developer" style="margin-top: -5px;" />
+
 
   <!-- Nombre -->
   <h3 style="margin: 5px 0;">
