@@ -28,7 +28,7 @@
 
 ## 🛠 &nbsp;Tech Stack
 
-#### 🔧 Languages
+
 
 <h3 align="left">🛠 Language and tools</h3>
 
