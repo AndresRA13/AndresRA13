@@ -16,14 +16,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Time+New+Roman&pause=1000&color=00bcd4&center=true&vCenter=true&width=300&lines=Software+Developer" alt="Typing Software Developer" style="margin-top: -5px;" />
 
 
-  <!-- Nombre -->
-  <h3 style="margin: 5px 0;">
-    Hi, I'm Andres Rojas 
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="wave">
-  </h3>
-
-  <!-- Texto animado -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=00bcd4&size=22&center=true&vCenter=true&width=300&height=35&lines=Software+Developer" alt="Typing Software Developer" style="margin-top: -5px;">
+  
 
 </div>
 
