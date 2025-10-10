@@ -60,7 +60,7 @@
 </div>
 
 ###
-<h3 align="left">☕ Connect with me :</h3>
+<h3 align="left">☕ Connect with me : <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Handshake.gif" height="25px"></h3>
 
 <br>
 
