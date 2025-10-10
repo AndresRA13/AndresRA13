@@ -7,16 +7,23 @@
 
 
 <div align="center">
-  <h3 style="margin-bottom: 5px;">
-    Hi, I'm Andres Rojas
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  <!-- Avatar -->
+  <img src="https://avatars.githubusercontent.com/u/your-id?v=4" width="120" style="margin-bottom: 5px;">
+
+  <!-- Título -->
+  <h3 style="margin: 5px 0;">
+    Hi, I'm Andres Rojas 
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
   </h3>
+
+  <!-- Subtítulo animado -->
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Developer" 
+    src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=00bcd4&size=22&center=true&vCenter=true&width=300&height=35&lines=Software+Developer" 
     alt="Typing SVG" 
-    style="margin-top: -10px;"
+    style="margin-top: -5px;"
   />
 </div>
+
 
 
 
