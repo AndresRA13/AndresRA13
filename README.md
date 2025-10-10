@@ -26,14 +26,15 @@
 
 <h3 align="left">🛠 About Me</h3>
 
-- 🏢 I am currently working as a **Senior Software Engineer** at [HCL Technologies Lanka](https://hclsrilanka.com/contact-us/)
-- 🏢 Former **Software Engineer** at [iLabs](https://www.ilabs.lk/)
-- 🎓 Studies for Software Engineering at [London Metropolitan University](https://www.londonmet.ac.uk/)
-- 🎓 Studies for BCS HEQ at [Matrix Institute of Information Technology](http://www.matrix-edu.com/)
-- 🏡'Lives in **Dalugama Sri Lanka**
-- ⚡ **Fun Facts** : 🍕 🏉 🏏 🎥 🚞
+- 💻 I'm a **Software Developer** passionate about building efficient, scalable, and creative solutions.  
+- 🎓 I studied **Analysis and Software Development** at [SENA (Servicio Nacional de Aprendizaje)](https://www.sena.edu.co/).  
+- 🌱 Currently improving my skills in **web development**, **backend technologies**, and **cloud computing**.  
+- 🚀 I enjoy working on personal projects that challenge me to learn new tools and frameworks.  
+- 🏡 Based in **Colombia** 🇨🇴  
+- ⚡ **Fun facts:** ☕ 💻 🎮 🎵
 
 <br>
+
 
 
 
