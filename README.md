@@ -5,6 +5,7 @@
 <h3 align="center">
   Hi, I'm Andres Rojas
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+    <img src="https://readme-typing-svg.herokuapp.com?
 </h3>
 
 <p align="center">
