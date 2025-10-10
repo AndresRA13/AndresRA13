@@ -41,18 +41,18 @@
 <br>
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,tailwind,firebase,git,github,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 <h3 align="left">🛠 Frameworks</h3>
 <br>
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,tailwind,firebase,git,github,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,tailwind)](https://skillicons.dev)
 
 <h3 align="left">🛠 Tools</h3>
 <br>
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,tailwind,firebase,git,github,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=firebase,git,github,)](https://skillicons.dev)
 
 
 ###
