@@ -80,8 +80,11 @@
 [![@anushka_wije](https://img.icons8.com/fluency/48/000000/twitter-squared.png "@anushka_wije")](https://twitter.com/anushka_wije) [![@0711971313](https://img.icons8.com/fluency/48/000000/phone-disconnected.png "@0711971313")](tel:0711971313) [![@anushkaduwolka123@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@anushkaduwolka123@gmail.com")](anushkaduwolka123@gmail.com)
 
 <br>
-<h3 align="center">🚀 "Cada línea de código es una oportunidad para aprender algo nuevo."</h3>
-<p align="center">Let's connect and keep building the future together 💻✨</p>
+
+
+<h3 align="center">🚀 "Every line of code is an opportunity to learn something new."</h3>
+<p align="center">Let's keep creating, learning, and building the future together 💻✨</p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00bcd4&center=true&vCenter=true&width=500&lines=Keep+learning;Keep+building;Keep+growing" alt="Typing Animation">
