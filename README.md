@@ -7,6 +7,7 @@
 
 
 <div align="center">
+
   <!-- Avatar -->
   <img src="https://avatars.githubusercontent.com/u/your-id?v=4" width="120" style="margin-bottom: 5px;">
 
@@ -17,12 +18,10 @@
   </h3>
 
   <!-- Texto animado -->
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=00bcd4&size=22&center=true&vCenter=true&width=300&height=35&lines=Software+Developer" 
-    alt="Typing Software Developer"
-    style="margin-top: -5px;"
-  />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=00bcd4&size=22&center=true&vCenter=true&width=300&height=35&lines=Software+Developer" alt="Typing Software Developer" style="margin-top: -5px;" />
+
 </div>
+
 
 
 
