@@ -42,13 +42,13 @@
 
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
-<h3 align="left">🛠 Frameworks</h3>
+<h3 align="left">🖥️ Frameworks</h3>
 <br>
 
 
 [![My Skills](https://skillicons.dev/icons?i=react,tailwind)](https://skillicons.dev)
 
-<h3 align="left">🛠 Tools</h3>
+<h3 align="left">📚 Tools</h3>
 <br>
 
 
