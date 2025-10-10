@@ -81,3 +81,7 @@
 
 <br>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00bcd4&center=true&vCenter=true&width=500&lines=Keep+learning;Keep+building;Keep+growing" alt="Typing Animation">
+</p>
+
