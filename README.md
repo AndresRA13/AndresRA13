@@ -92,7 +92,7 @@
   </a>
 
   <!-- GitHub -->
-  <a href="https://github.com/AndresRA13/AndresRA13" target="_blank">
+  <a href="https://github.com/AndresRA13" target="_blank">
     <img src="https://img.icons8.com/fluency/48/github.png" alt="GitHub" title="GitHub Profile" style="margin-right:10px;"/>
   </a>
 
