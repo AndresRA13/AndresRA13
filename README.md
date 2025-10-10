@@ -52,7 +52,7 @@
 <br>
 
 
-[![My Skills](https://skillicons.dev/icons?i=firebase,git,github,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=firebase,git,github,idea,vscode,mysql,mongodb,netlify,postman,supabase,)](https://skillicons.dev)
 
 
 ###
