@@ -62,15 +62,6 @@
 [![My Skills](https://skillicons.dev/icons?i=git,github,idea,vscode,postman)](https://skillicons.dev)
 
 
-###
-
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
-</div>
-
-###
-
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
