@@ -48,6 +48,13 @@
 
 [![My Skills](https://skillicons.dev/icons?i=react,tailwind)](https://skillicons.dev)
 
+<h3 align="left">📚 Data¿base & Cloud Hosting</h3>
+<br>
+
+
+[![My Skills](https://skillicons.dev/icons?i=firebase,mysql,mongodb,supabase,github,netlify)](https://skillicons.dev)
+
+
 <h3 align="left">📚 Tools</h3>
 <br>
 
